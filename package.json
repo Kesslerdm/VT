@@ -1,0 +1,17 @@
+{
+	"name": "Vyond-2018",
+	"description": "LVM Project witch attempts to bring back the old vyond legacy video maker 2+ Years Later.",
+	"scripts": {
+		"start": "node main.js"
+	},
+	"main": "index.js",
+	"dependencies": {
+		"brotli": "1.3.2",
+		"formidable": "^1.2.1",
+		"discord-rpc": "^3.2.0",
+		"js-md5": "0.7.3",
+		"mp3-duration": "^1.1.0",
+		"node-zip": "github:kyriosli/node-zip",
+		"xmldoc": "^1.1.2"
+	}
+}
